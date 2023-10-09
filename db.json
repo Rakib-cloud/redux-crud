@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 46,
+      "category": "Money",
+      "title": "Bkashx",
+      "date": "Oct 09, 2023",
+      "datetime": "10/09/2023",
+      "description": "Add money with bkash ."
+    },
+    {
+      "id": 245,
+      "category": "Cash",
+      "title": "Nogod",
+      "date": "Oct 09, 2023",
+      "datetime": "10/09/2023",
+      "description": "nice method"
+    }
+  ]
+}
